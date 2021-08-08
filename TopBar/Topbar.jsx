@@ -10,7 +10,7 @@ export default function Topbar(props) {
         <>
             <div className="topbarContainer">
                 <div className="topbarLeft">
-                    <span className="logo">Lamasocial</span>
+                    <span className="logo">ViniMix</span>
                 </div>
                 <div className="topbarCenter">
                     <div className="searchbar">
